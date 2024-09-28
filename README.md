@@ -1,23 +1,271 @@
-**PlayCoin**
 
-<img src="./imgs/playcoin_1.jpg" alt="playcoin 1" width="60"/> <img src="./imgs/playcoin_2.jpg" alt="playcoin 2" width="60"/> <img src="./imgs/playcoin_3.jpg" alt="playcoin 3" width="65"/> <img src="./imgs/playcoin_4.jpg" alt="playcoin 4" width="60"/> <img src="./imgs/playcoin_5.jpg" alt="playcoin 5" width="60"/>
 
-**SweatCoin**
 
-<img src="./imgs/sweatcoin_1.jpg" alt="sweatcoin 1" width="82"/> <img src="./imgs/sweatcoin_2.jpg" alt="sweatcoin 2" width="76"/> <img src="./imgs/sweatcoin_3.jpg" alt="sweatcoin 3" width="72"/> <img src="./imgs/sweatcoin_4.jpg" alt="sweatcoin 4" width="74"/> <img src="./imgs/sweatcoin_6.jpg" alt="sweatcoin 6" width="70"/> <img src="./imgs/sweatcoin_7.jpg" alt="sweatcoin 7" width="70"/> <img src="./imgs/sweatcoin_8.jpg" alt="sweatcoin 8" width="70"/> <img src="./imgs/sweatcoin_9.jpg" alt="sweatcoin 9" width="70"/> <img src="./imgs/sweatcoin_10.jpg" alt="sweatcoin 10" width="70"/> <img src="./imgs/sweatcoin_11.jpg" alt="sweatcoin 11" width="70"/> <img src="./imgs/sweatcoin_12.png" alt="sweatcoin 12" width="70"/> <img src="./imgs/sweatcoin_13.png" alt="sweatcoin 13" width="110"/>
 
-**Arrival**
+---
+---
 
-<img src="./imgs/arrival_cluster.jpg" alt="arrival cluster" width="210"/> <img src="./imgs/arrival_cluster_3.jpg" alt="arrival cluster 3" width="60"/> <img src="./imgs/arrival_cluster_4.jpg" alt="arrival cluster 4" width="75"/> <img src="./imgs/arrival_cluster_5.jpg" alt="arrival cluster 5" width="75"/> <img src="./imgs/arrival_cluster_7.jpg" alt="arrival cluster 7" width="65"/> <img src="./imgs/arrival_cluster_8.jpg" alt="arrival cluster 8" width="88"/> <img src="./imgs/arrival_nav.jpg" alt="arrival nav" width="210"/> <img src="./imgs/arrival_nav_2.jpg" alt="arrival nav 2" width="60"/> <img src="./imgs/arrival_QA_CI.jpg" alt="arrival QA CI" width="100"/> <img src="./imgs/arrival_selfi.jpg" alt="arrival selfi" width="100"/> <img src="./imgs/arrival_drive.jpg" alt="arrival drive" width="100"/> <img src="./imgs/arrival_garage_photo_ups_royal.jpg" alt="arrival garage photo ups royal" width="100"/> <img src="./imgs/arrival_roborace.jpg" alt="arrival roborace" width="100"/> <img src="./imgs/arrival_roborace_1.jpg" alt="arrival roborace 1" width="100"/> <img src="./imgs/arrival_roborace_2.jpg" alt="arrival roborace 2" width="100"/>
+## 🚶🪙 Sweat Coin
 
-**Gigs**
+[🔗 sweatco.in](https://sweatco.in) || React Native, Typescript, Javascript, Hooks, Redux, Native Modules, Reanimated, Gesture Handler, Android, iOS, Kotlin, Java, C++, Rx, Dagger2, Health API, Sensors, Web3, Rust.
 
-<img src="./imgs/gigs_qg.png" alt="gigs qg" width="60"/> <img src="./imgs/gigs_hotels.jpg" alt="gigs hotels" width="70"/> <img src="./imgs/gigs_platido_app.jpg" alt="gigs platido app" width="60"/> <img src="./imgs/gigs_restik.jpg" alt="gigs restik" width="130"/> <img src="./imgs/gigs_awesome_node.png" alt="gigs awesome node" width="65"/> <img src="./imgs/gigs_bookar_1.jpg" alt="gigs bookar 1" width="75"/> <img src="./imgs/gigs_bookar_2.jpg" alt="gigs bookar 2" width="140"/> <img src="./imgs/gigs_bookar_3.jpg" alt="gigs bookar 3" width="100"/> <img src="./imgs/gigs_bot.jpg" alt="gigs bot" width="180"/>
+<img src="./imgs/sweatcoin_app.png" width="100" /> <img src="./imgs/sweatcoin_us.jpg" width="65" />
 
-**Achievements**
+---
 
-<img src="./imgs/achievements_acm_badge.png" alt="achievements acm badge" width="40"/> <img src="./imgs/achievements_emc_microsoft.jpg" alt="achievements emc microsoft" width="90"/> <img src="./imgs/achievements_exigen.jpg" alt="achievements exigen" width="90"/> <img src="./imgs/achievements_intel_diploma.png" alt="achievements intel diploma" width="90"/> <img src="./imgs/achievements_ai_cup_t-shirt.jpg" alt="achievements ai cup t-shirt" width="35"/> <img src="./imgs/achievements_bachelor.png" alt="achievements bachelor" width="85"/> <img src="./imgs/achievements_distinguished_participant.jpg" alt="achievements distinguished participant" width="85"/> <img src="./imgs/achievements_most_elegant_solution.jpg" alt="achievements most elegant solution" width="85"/> <img src="./imgs/achievements_Coursera_Certificate_v1-970622141223.jpg" alt="achievements Coursera Certificate" width="50"/> <img src="./imgs/achievements_sunday_church.jpg" alt="achievements sunday church" width="85"/> <img src="./imgs/achievements_georgia_business.jpg" alt="achievements georgia business" width="50"/> <img src="./imgs/achievements_hoodies.jpg" alt="achievements hoodies" width="60"/> <img src="./imgs/achievements_cto_wn_card.jpg" alt="achievements cto wn card" width="40"/> <img src="./imgs/achievements_bot_badges.jpg" alt="achievements bot badges" width="60"/>
+### Redesign project & new features
 
-**Videos**
+marketplace || filters || team internal market || navigation android → RN & new design
 
-[![bookar video](https://img.youtube.com/vi/gv1W917k4Rs/0.jpg)](https://www.youtube.com/watch?v=gv1W917k4Rs) [![YouTube](http://i.ytimg.com/vi/eGXLf3kJ2PY/hqdefault.jpg)](https://www.youtube.com/watch?v=eGXLf3kJ2PY) [![YouTube](http://i.ytimg.com/vi/fAcbLYG7m58/hqdefault.jpg)](https://www.youtube.com/watch?v=fAcbLYG7m58)
+<img src="./imgs/mp_0.jpg" width="65" /> <img src="./imgs/mp_1.jpg" width="68" /> <img src="./imgs/mp_filters.jpg" width="67" /> <img src="./imgs/mp_team_trx.jpg" width="64" /> <img src="./imgs/mp_team.jpg" width="67" />
+
+sweatcoin for good / crowdfunding || donation flow || saving the 🐘 / testing donation flow / emojis
+
+<img src="./imgs/sweatcoin_for_good.jpg" width="170" /> <img src="./imgs/donate_page.jpg" width="115" /> <img src="./imgs/donates_testing.jpg" width="175" />
+
+SweatCoin wallet
+
+<img src="./imgs/sweatcoin_wallet_0.jpg" width="65" /> <img src="./imgs/sweatcoin_wallet_1.jpg" width="65" /> <img src="./imgs/sweatcoin_wallet_2.jpg" width="62" /> <img src="./imgs/sweatcoin_wallet_3.jpg" width="61" /> <a href="https://www.youtube.com/watch?v=pHYOqQ4CTio" target="_blank">
+  <img src="https://img.youtube.com/vi/pHYOqQ4CTio/0.jpg" width="180" />
+</a>
+
+📼 🔗 || video: redesign project demo day || A/B/C+ tests passed before 100% rollout
+
+---
+
+### GPS-less tracker
+
+first version worked with background GPS || at some point both Apple & Google banned that || accelerometer based gps-less tracker || some androids send accelerometer time in ms, some in nano || some from Unix epoch, some - not || some devices have accelerometer batching support, some do not
+
+<img src="./imgs/gps_less.jpg" width="60" /> <img src="./imgs/android_devices.jpg" width="150" /> <img src="./imgs/batching.jpg" width="220" /> 
+
+Huawei phones mostly don’t have memory chips for batching, but do have a whitelist for package names they don’t restrict || GMS → HMS || half a year 🐶🍚 & staged roll-out for 150M+
+
+disable battery optimization alert || 🏔️ C++/OpenGL mountains performance optimizations || battery optimization tips || kudos to dontkillmyapp.com || [🔗 same battery optimization tips on web](https://sweatco.in/android-instructions?application-agent=huawei&feature-accelerometer-tracker=true) || Google / Apple Health || Android Watch || 📼 phone treadmill ||
+
+<img src="./imgs/battery_op.jpg" width="71" /> <img src="./imgs/tips.jpg" width="63" /> <img src="./imgs/wearables.jpg" width="60" /> <img src="./imgs/android_watch.jpg" width="100" /> <a href="https://www.youtube.com/watch?v=HIKoP-Vzw6Y" target="_blank">
+  <img src="https://img.youtube.com/vi/HIKoP-Vzw6Y/0.jpg" width="180" />
+</a>
+
+---
+
+### 📑 Features & small things that are never small
+
+feature weight loss || new splash screen || new new splash screen || rate & update api || advent calendar || old non adaptive icons vs new adaptive icons
+
+<img src="./imgs/weight_loss.jpg" width="60" /> <img src="./imgs/splash.jpg" width="130" /> <img src="./imgs/rate.jpg" width="60" /> <img src="./imgs/advent.jpg" width="60" /> <img src="./imgs/adaptive_icons.png" width="280" />
+
+web views from backend || feedback banners || blocks from backend || 500 SWC ~ 375 km (233 miles) of walking, bonus || lots of frens || bonus from treasury for removing unneeded dependencies || testing emojis between platforms || bonus for updating RN on Android || dust spam example || profile that was selling nudes for SWC
+
+<img src="./imgs/web_view.jpg" width="200" /> <img src="./imgs/gift.jpg" width="61" /> <img src="./imgs/frens.jpg" width="61" /> <img src="./imgs/treasury.jpg" width="61" /> <img src="./imgs/rn_update.jpg" width="61" /> <img src="./imgs/spam.jpg" width="61" /> <img src="./imgs/nudes.jpg" width="61" />
+
+---
+
+### ☎️ ⛓ 🖼️ Sweat The Token
+
+frens from Lido || Polygon, Avalanche, Algorand, Solana, etc || Quantstamp, Pessimistic, Dexguard || AllBridge, WormHole || Terra || specs
+
+<img src="./imgs/comms.jpg" width="150" /> <img src="./imgs/terra.jpg" width="145" /> <img src="./imgs/spec_0.jpg" width="110" /> <img src="./imgs/spec_1.jpg" width="120" /> <img src="./imgs/spec_2.jpg" width="150" />
+
+ "You would be worse than crypto kittens" - Vitalik 🤭 || ~1k TPS || NEAR Protocol
+
+<img src="./imgs/tps_0.jpg" width="160" /> <img src="./imgs/tps_1.jpg" width="140" /> <img src="./imgs/near.jpg" width="140" /> <img src="./imgs/near_stake.jpg" width="150" />
+
+Zoom bridge between London and Moscow offices || Moscow office || Principles || Second Home coworking, Lisbon || Saint Petersburg
+
+<img src="./imgs/zoom_bridge.jpg" width="150" /> <img src="./imgs/msc_office_0.jpg" width="140" /> <img src="./imgs/principles.jpg" width="80" /> <img src="./imgs/lisbon.jpg" width="140" /> 
+
+2021 Sweatcoin Academy Award: Owl of the year 🤭 || sweat token ads in brave
+
+<img src="./imgs/academy_award.jpg" width="140" /> <img src="./imgs/brave.jpg" width="160" />
+
+[🔗 Sweat Economy](https://swe.at) || [📜 🔗 Sweat Token smart contract (github)](https://github.com/sweatco/sweat-near) ✍️ || [📜 🔗 lockups smart contract (github)](https://github.com/sweatco/sweat-near-lockup) ✍️ 
+
+NEAR-protocol NEP-141 custom token contract || Wormhole 🌁↔️ ERC-20 || lockups for TGE || Oracle 🔮 || TGE
+
+----
+### ⛓ 👛 Sweat Wallet
+
+
+
+exponential curve for steps → tokens rate || [👛 🔗 sweat wallet](https://swe.at/wallet)
+
+<img src="./imgs/walk_into_crypto.jpg" width="200" /> 
+
+[📰 🔗 NEAR Wallet Rockets to Over 20 Million Users With SWEAT Partnership](https://www.near.org/blog/near-wallet-rockets-to-over-20-million-users-with-sweat-partnership): 
+
+>  Sweat Economy—the “economy of movement”—successfully launched on NEAR with the largest ever airdrop to active, opted-in, wallets. The Move-to-Earn platform, active in Web2 since 2016 with over 130 million global users of its Sweatcoin app, distributed their new Web3 SWEAT token to 13.5M token holders. The Sweat Wallet app quickly became the #1 most downloaded Finance app in more than 50 countries.
+
+
+<img src="./imgs/swt_wallet.jpg" width="150" /> <img src="./imgs/staking.jpg" width="100" /> <img src="./imgs/democracy.jpg" width="100" /> <img src="./imgs/ai.jpg" width="150" />
+
+[📰 🔗 “Sweat Economy Sets Web3 Record with Largest Governance Vote in History”](https://blockchainreporter.net/sweat-economy-sets-web3-record-with-largest-governance-vote-in-history/)
+
+
+
+
+---
+---
+
+## 🚚 Arrival
+
+
+📼 HMI platform demo day || [🔗 Arrival wiki](https://en.wikipedia.org/wiki/Arrival_(company)) || Android, C++, Java, Kotlin, Cocos-2dx, AIDL, JNI, Binder, protobuf.
+
+<a href="https://www.youtube.com/watch?v=hGOahz5QiLY" target="_blank">
+  <img src="https://img.youtube.com/vi/hGOahz5QiLY/1.jpg" width="150" />
+</a>
+
+---
+### ⏱️ Instrument cluster
+
+drawing thin lines is hard || [📰 🔗 Cocos forum topic on anti-aliasing](https://forum.cocosengine.org/t/final-topic-about-anti-aliasing-disease/37666?source=post_page-----d057c41b8af2---------------------------------------) || [🔗 AwesomeNode lib github](https://github.com/intmainreturn00/AwesomeNode) || [🔗 CocoSlice github](https://github.com/intmainreturn00/CocoSlice) ||
+
+<img src="./imgs/cluster.jpg" width="200" /> <img src="./imgs/awesome_node.png" width="160" />
+
+feature tail lift || feature roller shatter || feature park sensors || one code base - different cars || UPS || Royal Mail
+
+<img src="./imgs/cluster_tail_lift.jpg" width="210" /> <img src="./imgs/cluster_roller_shatter.jpg" width="50" /> <img src="./imgs/cluster_park_sensors.jpg" width="75" /> <img src="./imgs/cluster_park.png" width="200" /> <img src="./imgs/cluster_ups.jpg" width="74" /> <img src="./imgs/cluster_royal_mail.jpg" width="74" />
+
+Cluster app || secondary display || OpenGl  || customized Cocos-2dx || Java & Kotlin background service || C++ logic
+
+---
+### 🗺️ Navigation app
+
+Navigation app || 2 displays || background navigation service || Java Kotlin || NokiaHere, GoogleMaps, MapBox
+
+<img src="./imgs/cluster_nav_turn.jpg" width="220" /> <img src="./imgs/cluster_nav.png" width="200" /> <img src="./imgs/ivi_nav.jpg" width="55" />
+
+[🔗 how to pass surfaceholder via aidl (StackOverflow)](https://stackoverflow.com/questions/42156262/how-to-pass-surfaceholder-via-aidl)
+
+
+---
+### 📑 SDK and more
+
+automotive is hard because || everything is realtime || everything must not crash || if something crashed - it should restore gracefully || everything has 100500 states || not just “yes” or “no” or “value”, but also “not available”, blinks || bus door error codes pdf ~ 500 pages || custom AOSP || CAN error aggregator, lua
+
+<img src="./imgs/cluster_states_and_errors.jpg" width="250" /> <img src="./imgs/cluster_states.jpg" width="118" /> <img src="./imgs/cluster_and_ivi.jpg" width="165" />
+
+
+Arrival SDK || C/C++ SDK backend, unix sockets, protobuf || C++ lib for linux level apps / NDK || AAR for Android level apps || samples, demo app, integration guides || architecture || docs || when fren wrote a review to your docs
+
+<img src="./imgs/sdk_architecture.jpg" width="150" /> <img src="./imgs/hmi_architecture.jpg" width="130" /> <img src="./imgs/cluster_architecture.jpg" width="130" /> <img src="./imgs/docs_review.jpg" width="200" />
+
+
+---
+
+### 🏎️ Robo Race  event app
+
+RoboRace event app || splines, map, socket to DevBot || DevBot_1 || DevBot_2 || <mark>**[🔗 RoboRace instagram](https://www.instagram.com/roborace/)**</mark> || <mark>**[🔗 RoboRace wiki](https://en.wikipedia.org/wiki/Roborace)**</mark> || [📼 🔗 “Guy Martin vs The Robot Car: The FULL Documentary” 2017](https://youtu.be/JZciDyjp0ZM)
+
+<img src="./imgs/roborace_app.jpg" width="150" /> <img src="./imgs/Guy_Martin_dev_bot_1.jpg" width="100" /> <img src="./imgs/dev_bot_1.jpg" width="140" /> <img src="./imgs/dev_bot_2.jpg" width="160" />
+
+---
+
+### 🖼️ 🗃️
+
+Cluster app || Navigation app || from TopGear ||  [🔗 charge.cars](https://charge.cars) || [🔗 charge.cars instagram](https://www.instagram.com/charge.cars)
+
+<img src="./imgs/top_gear_0.jpg" width="150" /> <img src="./imgs/top_gear_1.jpg" width="170" /> <img src="https://www.topgear.com/sites/default/files/news-listicle/image/tg_charge-15_0.jpg?w=1654&h=930" width="170"/>
+
+[📰 🔗 “TopGear: Gone in 60kWh: driving an electric Eleanor Mustang How do you turn a '67 Ford Mustang into a £300k EV? Time to find out”](https://www.topgear.com/car-news/electric/gone-60kwh-driving-electric-eleanor-mustang): 
+
+> Tesla-style portrait screen and digital instrument cluster is unexpectedly slick and simple to use.
+
+test drive || testing rig || mobile app 🤭
+
+<img src="./imgs/nav_testing.jpg" width="120" /> <img src="./imgs/testing_rig.jpg" width="120" /> <img src="./imgs/mobile_app.jpg" width="150" />
+
+Arrival first running truck 🚀 || arrival bus || rear view app || driving with my software || first Royal Mail truck 🚀 || debugging || Factory UK Banbury || Saint Petersburg office || 
+
+<img src="./imgs/arrival_first_truck.jpg" width="120" /> <img src="./imgs/arrival_bus.jpg" width="70" /> <img src="./imgs/arrival_rear_view_app.jpg" width="60" /> <img src="./imgs/arrival_driving_0.jpg" width="130" /> <img src="./imgs/arrival_driving_1.jpg" width="130" /> <img src="./imgs/arrival_chademo.jpg" width="130" /> <img src="./imgs/arrival_royal_mail.jpg" width="130" /> <img src="./imgs/arrival_debugging.jpg" width="130" /> <img src="./imgs/arrival_factory.jpg" width="340" /> <img src="./imgs/arrival_roborace_ups_royal_mail.jpg" width="165" /> <img src="./imgs/arrival_kitchen.jpg" width="135" /> <img src="./imgs/arrival_office_0.jpg" width="135" /> <img src="./imgs/arrival_office_1.jpg" width="135" /> <img src="./imgs/card.png" width="120" />
+
+
+---
+---
+## 💾 EMC<sup>2</sup>
+
+*created new raid algorithm based on special Cauchy matrix that was really fast || optimized one tiny parameter in a huge EMC storage to gain better storage cache performance || made ML model for tuning this parameter automatically || C++, QT, Boost, Linux, R*
+
+<img src="./imgs/emc_badge.jpg" width="140" /> <img src="./imgs/emc_conf_paper_0.jpg" width="150" /> <img src="./imgs/emc_conf_paper_1.jpg" width="70" /> <img src="./imgs/emc_conf.jpg" width="180" /> <img src="./imgs/emc_office.jpg" width="180" />
+
+---
+---
+## 🗃️ Projects
+
+[🕹️🔗 Ton Play](https://tonplay.io) || [🕹️ 🔗 Play Deck Bot](https://t.me/playdeckbot) || Telegram Mini App || React.js, Node.js, Postgress || Play Deck wallet 👛
+
+<img src="./imgs/playdeck_loader.jpg" width="60" /> <img src="./imgs/playdeck_mp.jpg" width="65" /> <img src="./imgs/playdeck_chat.jpg" width="65" /> <img src="./imgs/playdeck_promo.jpg" width="65" /> <img src="./imgs/playdeck_unity_game.jpg" width="65" /> <img src="./imgs/playdeck_wallet.jpg" width="65" />
+
+Play Deck first game 🦖
+
+<img src="./imgs/playdeck_trex.jpg" width="100" />
+
+[📑 🔗 Play Deck SDK (github)](https://github.com/ton-play/playdeck-integration-guide) || tutorials, docs
+
+White Nights Game Dev Conference, Istanbul || meetup: "Telegram Games: What’s in it for Game Developers?"
+
+<img src="./imgs/wn_0.jpg" width="100" /> <img src="./imgs/wn_2.jpg" width="55" /> <img src="./imgs/wn_1.jpg" width="100" />
+
+
+[🔗 QuizGeek](https://quizgeek.com) app || Cocos-2dx, Javascript, iOS, Android
+
+<img src="./imgs/QuizGeek_app.png" width="60" /> <img src="./imgs/QuizGeek_cup.jpg" width="130" /> <img src="./imgs/QuizGeek_office.jpg" width="170" />
+
+[🔗 BookAR (github)](https://github.com/intmainreturn00/Bookar) app github || Kotlin, coroutines, ARCore || [🔗 Goodreads unofficial android SDK (github)](https://github.com/intmainreturn00/grapi) || OAuth || Goodreads || [📑🔗 Medium](https://medium.com/@intmainreturn00)
+
+<img src="./imgs/BookAR_screen_0.jpg" width="100" /> <img src="./imgs/BookAR_screen_2.jpg" width="80" /> <img src="./imgs/BookAR_screen_3.jpg" width="55" /> <img src="./imgs/BookAR_medium_0.jpg" width="120" /> <img src="./imgs/BookAR_medium_1.jpg" width="150" />
+
+Timirtau (kz: iron mountain) ETH mining rig
+
+<img src="./imgs/Timirtau_0.jpg" width="100" /> <img src="./imgs/Timirtau_1.jpg" width="70" /> <img src="./imgs/Timirtau_2.jpg" width="110" />
+
+🧾 receipt printing software for [🔗 restik.com](restik.com) || [🔗 Alex Hotel App](https://play.google.com/store/apps/details?id=com.wideweb.motelspb) || [🔗 platido Home Online](https://play.google.com/store/apps/details?id=com.smarlab.platido)
+
+<img src="./imgs/restik.jpg" width="100" /> <img src="./imgs/poker.jpg" width="120" /> <img src="./imgs/alex.jpg" width="55" /> <img src="./imgs/smart_house.jpg" width="45" />
+
+---
+---
+## 🎓
+
+Peter the Great Polytechnic University || Bachelor in Computer Science
+
+<img src="./imgs/bachelor_diploma.jpg" width="100" /> <img src="./imgs/graduation_work.jpg" width="50" /> <img src="https://y.yarn.co/3d7b3934-cf4c-4afe-8869-912e9081d601_text.gif" width="120" /> <img src="https://y.yarn.co/fae867b8-cbf3-49cc-a3db-d9ba2a5cdbe1_text.gif" width="120" />
+
+
+Microsoft Research Summer School “Doing Research in the Cloud”
+
+<img src="./imgs/letter_of_recommendation.jpg" width="50" /> <img src="./imgs/microsoft_research_most_elegant_solution.jpg" width="100" /> <img src="./imgs/microsoft_research_paper.jpg" width="100" /> <img src="./imgs/microsoft_research_summer_school.jpg" width="45" />
+
+EMC Technology Day, 2013|| Robolympics, 2012 || St. Petersburg Student Olympiad in Programming, SPbSPU, #1 || 12th Open Siberian Programming Olympiad || Open Programming Olympiad, MIPT, 2010 || 10th Republican Open Team Tournament in Programming, 2010 || New Approaches to Software Development: Case Study of Microsoft and EMC Technologies || Junior Final of the 9th All-Russian Team Olympiad, 2008 || ACM Programming Contest, 2008 || Intel International parallel programming contest
+“Accelerate your code” Intel-Software-Academic-Programm || best course from Coursera
+
+<img src="./imgs/badges.jpg" width="55" /> <img src="./imgs/ai_cup.jpg" width="35" /> <img src="./imgs/intel.jpg" width="110" /> <img src="./imgs/coursera.jpg" width="105" />
+
+9 years in one photo
+
+<img src="./imgs/hoodies.png" width="150" />
+
+
+[intmainreturn00 at leetcode](https://leetcode.com/u/intmainreturn00/) || [intmainreturn00 at hackerrank](https://www.hackerrank.com/profile/intmainreturn00)
+
+<img src="./imgs/leetcode.jpg" width="80" /> <img src="./imgs/hacker_rank.jpg" width="130" /> <img src="./imgs/certificate.gif" width="110">
+
+[LeetHack](https://github.com/intmainreturn00/LeetHack)</mark> || bot that was solving these ⤴
+
+<a href="https://www.youtube.com/watch?v=fAcbLYG7m58" target="_blank">
+  <img src="https://img.youtube.com/vi/fAcbLYG7m58/0.jpg" width="100" />
+</a> <a href="https://www.youtube.com/watch?v=jTbMq3VH9ek" target="_blank">
+  <img src="https://img.youtube.com/vi/jTbMq3VH9ek/0.jpg" width="100" />
+</a> 
+
+🇺🇸🇬🇪🇷🇺 work authorized || 🇷🇺🇰🇿🇺🇿🇦🇲🇬🇪🇬🇧🇫🇮🇬🇷🇵🇹🇹🇷🇹🇭🇲🇾🇮🇱🇺🇸 travel || Menifee CA TROT
+
+<img src="./imgs/travel.jpg" width="200" /> <img src="./imgs/menifee_trot_0.jpg" width="100" /> 
+
+
+
+---
+---
+
+If you’ve made it this far and you’re interviewing me, please say 'Tenet'.
