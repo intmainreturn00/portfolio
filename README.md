@@ -1,0 +1,23 @@
+**PlayCoin**
+
+<img src="./imgs/playcoin_1.jpg" alt="playcoin 1" width="60"/> <img src="./imgs/playcoin_2.jpg" alt="playcoin 2" width="60"/> <img src="./imgs/playcoin_3.jpg" alt="playcoin 3" width="65"/> <img src="./imgs/playcoin_4.jpg" alt="playcoin 4" width="60"/> <img src="./imgs/playcoin_5.jpg" alt="playcoin 5" width="60"/>
+
+**SweatCoin**
+
+<img src="./imgs/sweatcoin_1.jpg" alt="sweatcoin 1" width="82"/> <img src="./imgs/sweatcoin_2.jpg" alt="sweatcoin 2" width="76"/> <img src="./imgs/sweatcoin_3.jpg" alt="sweatcoin 3" width="72"/> <img src="./imgs/sweatcoin_4.jpg" alt="sweatcoin 4" width="74"/> <img src="./imgs/sweatcoin_6.jpg" alt="sweatcoin 6" width="70"/> <img src="./imgs/sweatcoin_7.jpg" alt="sweatcoin 7" width="70"/> <img src="./imgs/sweatcoin_8.jpg" alt="sweatcoin 8" width="70"/> <img src="./imgs/sweatcoin_9.jpg" alt="sweatcoin 9" width="70"/> <img src="./imgs/sweatcoin_10.jpg" alt="sweatcoin 10" width="70"/> <img src="./imgs/sweatcoin_11.jpg" alt="sweatcoin 11" width="70"/> <img src="./imgs/sweatcoin_12.png" alt="sweatcoin 12" width="70"/> <img src="./imgs/sweatcoin_13.png" alt="sweatcoin 13" width="110"/>
+
+**Arrival**
+
+<img src="./imgs/arrival_cluster.jpg" alt="arrival cluster" width="210"/> <img src="./imgs/arrival_cluster_3.jpg" alt="arrival cluster 3" width="60"/> <img src="./imgs/arrival_cluster_4.jpg" alt="arrival cluster 4" width="75"/> <img src="./imgs/arrival_cluster_5.jpg" alt="arrival cluster 5" width="75"/> <img src="./imgs/arrival_cluster_7.jpg" alt="arrival cluster 7" width="65"/> <img src="./imgs/arrival_cluster_8.jpg" alt="arrival cluster 8" width="88"/> <img src="./imgs/arrival_nav.jpg" alt="arrival nav" width="210"/> <img src="./imgs/arrival_nav_2.jpg" alt="arrival nav 2" width="60"/> <img src="./imgs/arrival_QA_CI.jpg" alt="arrival QA CI" width="100"/> <img src="./imgs/arrival_selfi.jpg" alt="arrival selfi" width="100"/> <img src="./imgs/arrival_drive.jpg" alt="arrival drive" width="100"/> <img src="./imgs/arrival_garage_photo_ups_royal.jpg" alt="arrival garage photo ups royal" width="100"/> <img src="./imgs/arrival_roborace.jpg" alt="arrival roborace" width="100"/> <img src="./imgs/arrival_roborace_1.jpg" alt="arrival roborace 1" width="100"/> <img src="./imgs/arrival_roborace_2.jpg" alt="arrival roborace 2" width="100"/>
+
+**Gigs**
+
+<img src="./imgs/gigs_qg.png" alt="gigs qg" width="60"/> <img src="./imgs/gigs_hotels.jpg" alt="gigs hotels" width="70"/> <img src="./imgs/gigs_platido_app.jpg" alt="gigs platido app" width="60"/> <img src="./imgs/gigs_restik.jpg" alt="gigs restik" width="130"/> <img src="./imgs/gigs_awesome_node.png" alt="gigs awesome node" width="65"/> <img src="./imgs/gigs_bookar_1.jpg" alt="gigs bookar 1" width="75"/> <img src="./imgs/gigs_bookar_2.jpg" alt="gigs bookar 2" width="140"/> <img src="./imgs/gigs_bookar_3.jpg" alt="gigs bookar 3" width="100"/> <img src="./imgs/gigs_bot.jpg" alt="gigs bot" width="180"/>
+
+**Achievements**
+
+<img src="./imgs/achievements_acm_badge.png" alt="achievements acm badge" width="40"/> <img src="./imgs/achievements_emc_microsoft.jpg" alt="achievements emc microsoft" width="90"/> <img src="./imgs/achievements_exigen.jpg" alt="achievements exigen" width="90"/> <img src="./imgs/achievements_intel_diploma.png" alt="achievements intel diploma" width="90"/> <img src="./imgs/achievements_ai_cup_t-shirt.jpg" alt="achievements ai cup t-shirt" width="35"/> <img src="./imgs/achievements_bachelor.png" alt="achievements bachelor" width="85"/> <img src="./imgs/achievements_distinguished_participant.jpg" alt="achievements distinguished participant" width="85"/> <img src="./imgs/achievements_most_elegant_solution.jpg" alt="achievements most elegant solution" width="85"/> <img src="./imgs/achievements_Coursera_Certificate_v1-970622141223.jpg" alt="achievements Coursera Certificate" width="50"/> <img src="./imgs/achievements_sunday_church.jpg" alt="achievements sunday church" width="85"/> <img src="./imgs/achievements_georgia_business.jpg" alt="achievements georgia business" width="50"/> <img src="./imgs/achievements_hoodies.jpg" alt="achievements hoodies" width="60"/> <img src="./imgs/achievements_cto_wn_card.jpg" alt="achievements cto wn card" width="40"/> <img src="./imgs/achievements_bot_badges.jpg" alt="achievements bot badges" width="60"/>
+
+**Videos**
+
+[![bookar video](https://img.youtube.com/vi/gv1W917k4Rs/0.jpg)](https://www.youtube.com/watch?v=gv1W917k4Rs) [![YouTube](http://i.ytimg.com/vi/eGXLf3kJ2PY/hqdefault.jpg)](https://www.youtube.com/watch?v=eGXLf3kJ2PY) [![YouTube](http://i.ytimg.com/vi/fAcbLYG7m58/hqdefault.jpg)](https://www.youtube.com/watch?v=fAcbLYG7m58)
